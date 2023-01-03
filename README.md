@@ -14,6 +14,8 @@
 
 A simple website made in some of my first days of coding to display various vacation tour packages in the country of Georgia. This page was created to practice HTML and CSS. The site can be found here: https://reed-carter.github.io/georgian-vacation/
 
+[<img src="./georgian_vacation_website.png" width='700'/>](./georgian_vacation_website.png)
+
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
