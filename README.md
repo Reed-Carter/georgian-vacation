@@ -12,7 +12,7 @@
 
 ## Description
 
-A simple website to display various vacation tour packages in the country of Georgia. This page was created to practice coding techniques. The site can be found here: https://reed-carter.github.io/georgian-vacation/
+A simple website made in some of my first days of coding to display various vacation tour packages in the country of Georgia. This page was created to practice HTML and CSS. The site can be found here: https://reed-carter.github.io/georgian-vacation/
 
 ## Setup/Installation Requirements
 
